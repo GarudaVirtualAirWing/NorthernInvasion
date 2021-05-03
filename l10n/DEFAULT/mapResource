@@ -1,0 +1,20 @@
+mapResource = 
+{
+    ["ResKey_ImageBriefing_618"] = "NORTHERN-1024x799.jpg",
+    ["ResKey_ImageBriefing_8653"] = "gvaw-donate.jpg",
+    ["ResKey_ImageBriefing_8652"] = "NORTHERN2-1024x633.jpg",
+    ["ResKey_Action_2005"] = "transport.ogg",
+    ["ResKey_Action_7359"] = "beaconsilent.ogg",
+    ["ResKey_Action_8655"] = "Moose.lua",
+    ["ResKey_Action_7825"] = "mist_4_4_87.lua",
+    ["ResKey_Action_2002"] = "marked.ogg",
+    ["ResKey_Action_2001"] = "depart.ogg",
+    ["ResKey_Action_2000"] = "arrivefarp.ogg",
+    ["ResKey_Action_2003"] = "standby.ogg",
+    ["ResKey_Action_7357"] = "beacon.ogg",
+    ["ResKey_Action_1999"] = "arrive.ogg",
+    ["ResKey_Action_2004"] = "targetdestroyed.ogg",
+    ["ResKey_Action_2006"] = "transportfarp.ogg",
+    ["ResKey_Action_7659"] = "HoggitREPL.lua",
+    ["ResKey_Action_8658"] = "Moose_Respawn.lua",
+} -- end of mapResource
